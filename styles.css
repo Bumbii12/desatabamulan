@@ -44,7 +44,7 @@ section:nth-child(even) {
 }
 
 .carousel-item img {
-  height: 110vh !important;
+  height: 50vh !important;
   object-fit: cover;
   width: 100%;
   margin-top: -10px;
